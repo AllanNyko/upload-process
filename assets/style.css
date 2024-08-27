@@ -6,8 +6,8 @@
 }
 
 .load-bar {
-    height: 10px; /* Ajuste conforme necessário */
-    background-color: green; /* Cor da barra de progresso */
+    height: 10px; 
+    background-color: green;  
     margin: 10px 0 10px 0;
-    transition: width 0.1s ease-in-out; /* Transição suave */
+    transition: width 0.1s ease-in-out;  
 }
