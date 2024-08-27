@@ -1,0 +1,13 @@
+#image-preview {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.load-bar {
+    height: 10px; /* Ajuste conforme necessário */
+    background-color: green; /* Cor da barra de progresso */
+    margin: 10px 0 10px 0;
+    transition: width 0.1s ease-in-out; /* Transição suave */
+}
