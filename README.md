@@ -1,0 +1,1 @@
+Script desenvolvido apenas para ilustrar o conhecimento das funcionalidades do FileReader na manipulação de arquivos locais exibindo-os no browser.
